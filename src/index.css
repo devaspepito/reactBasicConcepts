@@ -1,0 +1,21 @@
+@font-face {
+  font-family: "IosevkaTerm";
+  src: url(/fonts/IosevkaTerm/IosevkaTermNerdFont-Medium.ttf);
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  font-family: "IosevkaTerm";
+}
+
+body {
+  background-color: black;
+  color: whitesmoke;
+  margin: 0;
+  display: flex;
+  justify-content: center;
+  place-items: center;
+  min-width: 100vh;
+  min-height: 100vh;
+}

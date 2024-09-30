@@ -1,0 +1,24 @@
+.container {
+  display: flex;
+}
+
+.counterContain {
+  margin: 4px auto;
+  display: flex;
+}
+
+h1.counter {
+  font-size: 1.3rem;
+  margin: 5px;
+  padding: 5px;
+  cursor: default;
+}
+
+.counterContain button {
+  color: whitesmoke;
+  background-color: transparent;
+  border: none;
+  font-size: 2rem;
+  font-weight: bolder;
+  cursor: pointer;
+}
