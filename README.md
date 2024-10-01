@@ -70,9 +70,10 @@ yarn dev
 - Solo se le ha aplicado estilos a el index.
 - No puse tildes por que la distribucion de teclado que manejo no tiene tilde.
 
+---
+
 ```
 
----
 
 ███████╗███╗   ██╗ ██████╗ ██╗     ██╗███████╗██╗  ██╗
 ██╔════╝████╗  ██║██╔════╝ ██║     ██║██╔════╝██║  ██║
