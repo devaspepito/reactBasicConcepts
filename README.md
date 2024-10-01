@@ -66,6 +66,7 @@ yarn dev
 
 - Esta hecho con yarn.
 - La traduccion de el saludo esta nada mas en 4 idiomas.
+- Los idiomas soportados son: Español(es), Ingles(en), Frances(fr) y Aleman(de).
 - Solo se le ha aplicado estilos a el index.
 - No puse tildes por que la distribucion de teclado que manejo no tiene tilde.
 
@@ -137,4 +138,5 @@ yarn dev
 
 - It is built with Yarn.
 - The greeting translation is available in only 4 languages.
+- The supported languages are: Spanish (es), English (en), French (fr), and German (de).
 - Styles have only been applied to the index.
